@@ -11,4 +11,4 @@
 空气湿度:{{keyword8.DATA}}
 风速:{{keyword9.DATA}}
 风向:{{keyword10.DATA}}
-{remark.DATA}} 
+{{remark.DATA}} 
