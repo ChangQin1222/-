@@ -4,10 +4,10 @@
 今天天气：{{keyword1.DATA}} 
 今天温度{{keyword2.DATA}} 
 我们已经恋爱了{{keyword3.DATA}} 
-距离小春卷生日还有{{keyword4.DATA}}
+距离生日还有{{keyword4.DATA}}
 空气指南{{keyword5.DATA}}
 空气等级{{keyword6.DATA}}
-对于今天的天气小何给出以下能见度建议:{{keyword7.DATA}}
+对于今天的天气给出以下能见度建议:{{keyword7.DATA}}
 空气湿度:{{keyword8.DATA}}
 风速:{{keyword9.DATA}}
 风向:{{keyword10.DATA}}
